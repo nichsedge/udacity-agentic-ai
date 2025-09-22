@@ -1,3 +1,3 @@
 course 2: https://github.com/udacity/cd14525-agentic-workflows-classroom
 course 3: https://github.com/udacity/cd14524-building-agents-public.git
-
+course 4: https://github.com/udacity/agentic-ai-c4-exercises-demos
